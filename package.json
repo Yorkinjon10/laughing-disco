@@ -58,7 +58,7 @@
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
-    "core-js": "^3.20.3",
+    "core-js": "^3.23.1",
     "d3-dsv": "^3.0.1",
     "easy-peasy": "^5.0.4",
     "emotion-normalize": "^11.0.1",
